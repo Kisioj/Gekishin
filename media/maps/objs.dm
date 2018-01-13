@@ -1,0 +1,50 @@
+obj
+	icon='space.png'
+	ship1
+		icon_state="ship1"
+		pixel_y=1
+	ship2
+		icon_state="ship2"
+		pixel_y=1
+	pointer
+		icon_state="pointer"
+
+turf
+	icon = 'space.png'
+	path
+		icon_state="path"
+	path_arrow
+		icon_state="path_arrow"
+	black
+		icon_state="black"
+	white
+		icon_state="white"
+	edge
+		icon_state="edge"
+		density=1
+	stars1
+		icon_state="stars1"
+	stars2
+		icon_state="stars2"
+	stars3
+		icon_state="stars3"
+	rocks
+		icon_state="rocks"
+	star1
+		icon_state="star1"
+	star2
+		icon_state="star2"
+	star3
+		icon_state="star3"
+	star4
+		icon_state="star4"
+	planet1
+		icon_state="planet1"
+	planet2
+		icon_state="planet2"
+	planet3
+		icon_state="planet3"
+	planet4
+		icon_state="planet4"
+	planet5
+		icon_state="planet5"

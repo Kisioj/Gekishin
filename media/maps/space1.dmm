@@ -1,0 +1,89 @@
+"a" = (/turf/edge{dir = 9},/area)
+"b" = (/turf/edge{dir = 1},/area)
+"c" = (/turf/edge{dir = 5},/area)
+"d" = (/turf/edge{dir = 8},/area)
+"e" = (/turf/stars2,/area)
+"f" = (/turf/stars1,/area)
+"g" = (/turf/stars3,/area)
+"h" = (/turf/rocks,/area)
+"i" = (/turf/edge{dir = 4},/area)
+"j" = (/turf/star1,/area)
+"k" = (/turf/black,/area)
+"l" = (/turf/planet3,/area)
+"m" = (/turf/planet2,/area)
+"n" = (/turf/path,/area)
+"o" = (/turf/planet5,/area)
+"p" = (/turf/star2,/area)
+"q" = (/turf/star3,/area)
+"r" = (/turf/star4,/area)
+"s" = (/turf/planet4,/area)
+"t" = (/turf/path_arrow{dir = 8},/area)
+"u" = (/obj/ship2,/turf/path,/area)
+"v" = (/obj/ship1,/turf/planet4,/area)
+"w" = (/turf/planet1,/area)
+"x" = (/turf/edge{dir = 10},/area)
+"y" = (/turf/edge,/area)
+"z" = (/turf/edge{dir = 6},/area)
+
+(1,1,1) = {"
+abbbbbbbbbbbbbbbbbbbbbbbbbbbbbbc
+defegefhhfeghefhehhhhhhhhhfghegi
+dgjfegehfgkkfghhhhhhhhhhhhhhflei
+dfgefeggekkgehhhehfeghehhhhhhfei
+defmeghehffehhhhggehffegefhhhhgi
+dgeffegekkeggnnnnnnnnnfehgehhhei
+deoghhekkfhghnhhefegeneggehhhhfi
+dhhhefkkgefehnhggegjfnfegfefhhhi
+dfefeegefpefgnhfeffeknkgjehghhhi
+degpqpkkeggehnhegregkskeggfhhhfi
+dfefekkghefnnnhhffefkkkfqfhghhhi
+dehhggeffnnnhhhfhegfjfeeggehhhei
+dfegnnnnnnefghhhhhepfegehfhhhegi
+degfnefpegefhhhhhhhehhehhhhhefei
+dfpnngegghggefhhhhhhhhhhhhhehpgi
+dfengehhhhfeghhhhhhhhhhhhhhhehfi
+dhhnfhhhgeghhhhhghhhhhhhhhfehfei
+dgenhhefprefghehhefhhhhhgeghfpfi
+defnhhfggefeggeggreggennnnnnegei
+dhenhggkkkgqehhffhfennnegfenfhgi
+dgfnnfekjkefegheeggnnefkkkfngefi
+dephnhgkkkgehhfehefnfgmkkgenfggi
+degenhefegefhefgefengekkfegnnefi
+dfhfnhlggefhgnnnnnnnehfeghhenfei
+deggnhhhefhhfnefefegefkkfeggnegi
+dffennntnnnnnngefokkgkkgehefnfhi
+dehfegenggeffeghhhhhehheffpenggi
+dfegepenefhkkhhhhhhhhfhfkkegnefi
+defhhfengegehhhhefhhhhskkhhenfgi
+dgefkkfnghfhhhffgefghhhhfeggnefi
+dfhegkenfeghhhfeefegehhhfegenfki
+dgpkkfengghhhmegmegeffhhhgkfnegi
+dekkhhfnepfhhhfgfejgeghhekkgnhei
+dfegefengehfhhefefegghhhhfefnefi
+dghrkkgnefghhhhggegoehhhgeghnfpi
+defkkfengheghhhfhfefhhhhekkfnegi
+dgofgqenfekkghhhhhhhhhhekkgenffi
+defhgefnekkghhhehhhhhefqfehhngei
+dehfehenghepefegfgehefkkefgnnefi
+dhhhhhhnefeegesfehfgekkfehenfgei
+dhhhhhhnhhhhehfeefepefegrppnegmi
+dhhhhhhnnnnnnnnnnnneprpppppnrppi
+degeghfhhhhhhhheefnnnnlppppnpppi
+dfhfeghegghhhhhhhhefpqppprpnpqei
+degefegehefghhhhefhhgfeqpppnegfi
+dhhhhefeegefhhhhhhhhhefegefngefi
+dhhhhhhhhfpeghhhhhhhhghpkkenehgi
+dhhhhhhhhhhfefhhhhhhhefkkhgnefei
+dfghhhhhhhhhgpehhhhhhhefegengqfi
+defkkefhhhhhhefgfhhhhhgpgnnufhei
+dgkkehefghhhhfoeehhhhhhfenggekki
+defegefefehhhhggqghhhhhegnhekkfi
+dfhhevnnnnnnhhheeffhhhhhnnffpgli
+defegefefegnnnnnnnnnnnnnngeekkgi
+dgefegefgkkghhhfeffhhhhhfegkkfei
+deghgwfgkkfehhhesehghhhhhfoeghei
+dgeffekkfehghhhhghfehhhhhegkkefi
+dejgleggeffeghhhefegghhhfekkggei
+defeggefeeggehhhggeefhhhhhfeeffi
+xyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyz
+"}

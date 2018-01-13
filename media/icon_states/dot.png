@@ -1,0 +1,10 @@
+width 20
+height 20
+
+state dot
+    x 0
+    y 0
+    frames 4
+    time 100,100,100,100
+    rewind 1
+    end

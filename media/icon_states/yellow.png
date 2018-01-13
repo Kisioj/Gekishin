@@ -1,0 +1,10 @@
+width 16
+height 16
+
+state yellow
+    x 0
+    y 0
+    frames 1
+    time 100
+    rewind 0
+    end

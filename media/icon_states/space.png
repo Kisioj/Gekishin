@@ -1,0 +1,133 @@
+width 16
+height 16
+
+state rocks
+    x 0
+    y 0
+    end
+state stars1
+    x 16
+    y 0
+    frames 3
+    time 200,200,200
+    end
+state planet1
+    x 64
+    y 0
+    end
+state stars2
+    x 80
+    y 0
+    frames 3
+    time 200,200,200
+    end
+state planet2
+    x 128
+    y 0
+    end
+state ship1
+    x 144
+    y 0
+    end
+state star1
+    x 160
+    y 0
+    end
+state planet3
+    x 176
+    y 0
+    end
+
+
+
+
+
+state stars3
+    x 0
+    y 16
+    end
+state star2
+    x 16
+    y 16
+    frames 3
+    time 200,200,200
+    end
+state planet4
+    x 64
+    y 16
+    end
+state ship2
+    x 80
+    y 16
+    end
+state sun1
+    x 96
+    y 16
+    end
+state star3
+    x 112
+    y 16
+    end
+state planet5
+    x 128
+    y 16
+    end
+state square1
+    x 144
+    y 16
+    frames 3
+    time 150,150,150
+    end
+
+
+
+
+
+state path
+    x 0
+    y 32
+    end
+state edge1
+    x 16
+    y 32
+    end
+state edge2
+    x 32
+    y 32
+    end
+state edge3
+    x 48
+    y 32
+    end
+state edge4
+    x 64
+    y 32
+    end
+state edge5
+    x 80
+    y 32
+    end
+state edge6
+    x 96
+    y 32
+    end
+state edge7
+    x 112
+    y 32
+    end
+state edge8
+    x 128
+    y 32
+    end
+state path_left
+    x 144
+    y 32
+    end
+state black
+    x 160
+    y 32
+    end
+state white
+    x 176
+    y 32
+    end
